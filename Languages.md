@@ -8,7 +8,7 @@
 # Day 2 B
 
 - [B](<https://en.wikipedia.org/wiki/B_(programming_language)> "B (programming language)")
-- [Bash](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
+- [Bash](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>) ✅
 - [Batch](https://en.wikipedia.org/wiki/Batch_file)
 - [Basic](https://en.wikipedia.org/wiki/BASIC)
 - [BlitzMax](https://blitzmax.org/)
