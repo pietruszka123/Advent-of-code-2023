@@ -19,7 +19,7 @@
 - [CPL](<https://en.wikipedia.org/wiki/CPL_(programming_language)>)
 - [Curry](<https://en.wikipedia.org/wiki/Curry_(programming_language)>)
 - [Curl](<https://en.wikipedia.org/wiki/Curl_(programming_language)>)
-- [C](<https://en.wikipedia.org/wiki/C_(programming_language)>)
+- [C](<https://en.wikipedia.org/wiki/C_(programming_language)>) ✅
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [C#](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
 
