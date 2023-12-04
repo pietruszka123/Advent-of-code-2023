@@ -25,7 +25,7 @@
 
 # Day 4 D
 
-- [Dart](<https://en.wikipedia.org/wiki/Dart_(programming_language)>)
+- [Dart](<https://en.wikipedia.org/wiki/Dart_(programming_language)>) ✅
 - [Dlang](<https://en.wikipedia.org/wiki/D_(programming_language)>)
 
 # Day 5 E
