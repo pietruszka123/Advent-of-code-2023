@@ -1,3 +1,7 @@
 {
-  "recommendations": ["cweijan.vscode-autohotkey-plus"]
+  "recommendations": [
+    "cweijan.vscode-autohotkey-plus",
+    "dart-code.dart-code",
+    "jakebecker.elixir-ls"
+  ]
 }

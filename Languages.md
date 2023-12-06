@@ -32,7 +32,7 @@
 
 - [Erlang](<https://en.wikipedia.org/wiki/Erlang_(programming_language)>)
 - [E](<https://en.wikipedia.org/wiki/E_(programming_language)> "E (programming language)")
-- [Elixir](<https://en.wikipedia.org/wiki/Elixir_(programming_language)>)
+- [Elixir](<https://en.wikipedia.org/wiki/Elixir_(programming_language)>) ✅
 - [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
 
 # Day 6 F
@@ -76,6 +76,7 @@
 
 - [Machine code](https://en.wikipedia.org/wiki/Machine_code)
 - [MASM Microsoft Assembly](https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler)
+- [Mojo](<https://en.wikipedia.org/wiki/Mojo_(programming_language)>)
 
 # Day 14 N
 
