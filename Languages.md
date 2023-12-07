@@ -38,7 +38,7 @@
 # Day 6 F
 
 - [Fortran](https://en.wikipedia.org/wiki/Fortran "Fortran")
-- [fish](https://en.wikipedia.org/wiki/Friendly_interactive_shell)
+- [fish](https://en.wikipedia.org/wiki/Friendly_interactive_shell) ✅
 
 # Day 7 G
 
