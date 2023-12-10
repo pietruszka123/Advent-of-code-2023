@@ -43,7 +43,7 @@
 # Day 7 G
 
 - [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language)
-- [Go](<https://en.wikipedia.org/wiki/Go_(programming_language)>)
+- [Go](<https://en.wikipedia.org/wiki/Go_(programming_language)>) ✅
 - [GDScript](<https://en.wikipedia.org/wiki/Godot_(game_engine)>)
 
 # Day 8 H
