@@ -48,7 +48,7 @@
 
 # Day 8 H
 
-- [Haskell](https://en.wikipedia.org/wiki/Haskell)
+- [Haskell](https://en.wikipedia.org/wiki/Haskell) ✅
 - [HolyC](https://en.wikipedia.org/wiki/TempleOS)
 - [High Level Shader Language](https://en.wikipedia.org/wiki/High_Level_Shader_Language "High Level Shader Language")
 
